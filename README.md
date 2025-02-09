@@ -2,10 +2,6 @@
 
 I'm a software engineer at Nokia, previously a Computer Science researcher at the University of South Wales.
 
-I'm currently trying to gain a deeper understanding of distributed systems and am open to contributing to any projects related to that.
-
-I'm also interested in chess programming.
-
 My primary language is C++.
 
 <!--
